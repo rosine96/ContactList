@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\ContactList\bin\Debug\net6.0\ContactList.exe
+C:\Users\DELL\Documents\ContactList\bin\Debug\net6.0\ContactList.deps.json
+C:\Users\DELL\Documents\ContactList\bin\Debug\net6.0\ContactList.runtimeconfig.json
+C:\Users\DELL\Documents\ContactList\bin\Debug\net6.0\ContactList.dll
+C:\Users\DELL\Documents\ContactList\bin\Debug\net6.0\ContactList.pdb
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.AssemblyInfo.cs
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.dll
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\refint\ContactList.dll
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.pdb
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ContactList.genruntimeconfig.cache
+C:\Users\DELL\Documents\ContactList\obj\Debug\net6.0\ref\ContactList.dll
